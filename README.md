@@ -13,7 +13,11 @@
 
 ## Tech Stack
 
-#### Python • TensorFlow/Keras • NumPy • Pandas • Matplotlib
+#### • Python 
+#### • TensorFlow/Keras 
+#### • NumPy 
+#### • Pandas 
+#### • Matplotlib
 
 ## Dataset
 
